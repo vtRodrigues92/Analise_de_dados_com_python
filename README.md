@@ -1,4 +1,4 @@
-# Analise_dados_com_python
+# Analise de dados com python
 Avaliação final da matéria de visualização de dados com python, onde foi analisado dados da população mundial no ano de 2020, gerando insights com gráficos responsivos e utilizando práticas de storytelling.
 
 **Link do dataset usado no projeto = https://www.kaggle.com/tanuprabhu/population-by-country-2020/version/4
